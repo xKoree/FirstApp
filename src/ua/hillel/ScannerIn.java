@@ -1,0 +1,87 @@
+package ua.hillel;
+
+import java.util.Scanner;
+
+import static java.lang.System.out;
+
+public class ScannerIn {
+
+    public static void EnterNumberOfTheProgmram(){
+
+    out.println((char) 27 + "[34mВведите номер программы 1-8: " + (char)27 + "[0m");
+    Scanner pr = new Scanner(System.in);
+    int choose = pr.nextInt();
+
+       switch (choose) {
+            case 1:
+                Program01.Say();
+                out.println((char) 27 + "[34m-----------------------------------------" + (char)27 + "[0m");
+                ScannerSecondChoose.ExitOrContinue();
+                break;
+            case 2:
+                Program02.Say();
+                out.println((char) 27 + "[34m-----------------------------------------" + (char)27 + "[0m");
+                break;
+            case 3:
+                Program03.Say();
+                out.println((char) 27 + "[34m-----------------------------------------" + (char)27 + "[0m");
+                break;
+            case 4:
+                Program04.Say();
+                out.println((char) 27 + "[34m-----------------------------------------" + (char)27 + "[0m");
+                break;
+            case 5:
+                Program05.Say();
+                out.println((char) 27 + "[34m-----------------------------------------" + (char)27 + "[0m");
+                break;
+            case 6:
+                Program06.Factorial();
+                out.println((char) 27 + "[34m-----------------------------------------" + (char)27 + "[0m");
+                break;
+            case 7:
+                Program07.Say();
+                out.println((char) 27 + "[34m-----------------------------------------" + (char)27 + "[0m");
+                break;
+            case 8:
+                Program08.ChangeLine();
+                out.println((char) 27 + "[34m-----------------------------------------" + (char)27 + "[0m");
+                break;
+
+            default:
+                out.println((char) 27 + "[31m                WARNING!" + (char)27 + "[0m");
+                out.println((char) 27 + "[31m-----------------------------------------" + (char)27 + "[0m");
+                out.println((char) 27 + "[31m    Вы вызвали несуществующую программу" + (char)27 + "[0m");
+                out.println((char) 27 + "[31m-----------------------------------------" + (char)27 + "[0m");
+                EnterNumberOfTheProgmram();
+        }
+
+
+    }
+}
+
+
+class ScannerSecondChoose {
+
+    public static void ExitOrContinue(){
+
+        out.println((char) 27 + "[34m 1. Continue -------- 2. EXIT " + (char)27 + "[0m");
+        Scanner choose2 = new Scanner(System.in);
+        int secondChoose = choose2.nextInt();
+
+        switch (secondChoose) {
+            case 1:
+                ChooseProgram.Choose();
+                ScannerIn.EnterNumberOfTheProgmram();
+                break;
+            case 2:
+                out.println((char) 27 + "[31mEXIT " + (char)27 + "[0m");
+                break;
+
+            default:    out.println((char) 27 + "[31m                WARNING!" + (char)27 + "[0m");
+        }
+    }
+}
+
+
+
+
