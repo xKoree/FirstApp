@@ -6,12 +6,9 @@ import static java.lang.System.out;
 
 public class Program06 {
 
-
-
     public static void Factorial(){
-        System.out.println("Hello Method 6");
 
-
+        out.println((char) 27 + "[31mМы работаем над задачей в поте лица" + (char)27 + "[0m");
 
     }
 

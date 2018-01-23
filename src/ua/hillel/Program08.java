@@ -7,13 +7,14 @@ import static java.lang.System.out;
 public class Program08 {
 
     public static void ChangeLine(){
-            out.println("Метод, переставляющий символы в строке в обратном порядке: ");
+        out.println((char) 27 + "[34mМетод переставляющий символы в строке в обратном порядке:  " + (char)27 + "[0m");
 
         Scanner input = new Scanner(System.in);
         StringBuffer line = new StringBuffer();
 
-            out.println("Введите произвольную строку: ");
+            out.println((char) 27 + "[32m          Введите произвольную строку: " + (char)27 + "[0m");
         line.append(input.nextLine());
+            out.println((char) 27 + "[32m      Метод возвращает строку в обратном порядке:" + (char)27 + "[0m");
         line.reverse();
 
             out.println(line);
