@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4e6f6bc-3003-4a80-af3d-614ffea81146" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/ua/hillel/ChooseProgram.java" afterPath="$PROJECT_DIR$/src/ua/hillel/ChooseProgram.java" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/Program01.java" afterPath="$PROJECT_DIR$/src/ua/hillel/Program01.java" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/Program02.java" afterPath="$PROJECT_DIR$/src/ua/hillel/Program02.java" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/Program03.java" afterPath="$PROJECT_DIR$/src/ua/hillel/Program03.java" />
       <change beforePath="$PROJECT_DIR$/src/ua/hillel/Program04.java" afterPath="$PROJECT_DIR$/src/ua/hillel/Program04.java" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/Program05.java" afterPath="$PROJECT_DIR$/src/ua/hillel/Program05.java" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/Program06.java" afterPath="$PROJECT_DIR$/src/ua/hillel/Program06.java" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/Program07.java" afterPath="$PROJECT_DIR$/src/ua/hillel/Program07.java" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/Program08.java" afterPath="$PROJECT_DIR$/src/ua/hillel/Program08.java" />
       <change beforePath="$PROJECT_DIR$/src/ua/hillel/ScannerIn.java" afterPath="$PROJECT_DIR$/src/ua/hillel/ScannerIn.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ScannerIn.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ScannerIn.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ua/hillel/ScannerIn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-384">
-              <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            <state relative-caret-position="254">
+              <caret line="64" column="91" lean-forward="false" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="91" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -40,8 +32,8 @@
       <file leaf-file-name="Program08.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ua/hillel/Program08.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="118" />
+            <state relative-caret-position="147">
+              <caret line="14" column="102" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="102" />
               <folding />
             </state>
           </provider>
@@ -60,18 +52,18 @@
       <file leaf-file-name="ChooseProgram.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ua/hillel/ChooseProgram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="100" />
+            <state relative-caret-position="255">
+              <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program04.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Program04.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ua/hillel/Program04.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <state relative-caret-position="113">
+              <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,9 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ua/hillel/ChooseProgram.java" />
-        <option value="$PROJECT_DIR$/src/ua/hillel/Program04.java" />
-        <option value="$PROJECT_DIR$/src/ua/hillel/ScannerIn.java" />
         <option value="$PROJECT_DIR$/src/ua/hillel/Program08.java" />
         <option value="$PROJECT_DIR$/src/ua/hillel/Program01.java" />
         <option value="$PROJECT_DIR$/src/ua/hillel/Program02.java" />
@@ -102,6 +91,9 @@
         <option value="$PROJECT_DIR$/src/ua/hillel/Program05.java" />
         <option value="$PROJECT_DIR$/src/ua/hillel/Program06.java" />
         <option value="$PROJECT_DIR$/src/ua/hillel/Program07.java" />
+        <option value="$PROJECT_DIR$/src/ua/hillel/ScannerIn.java" />
+        <option value="$PROJECT_DIR$/src/ua/hillel/ChooseProgram.java" />
+        <option value="$PROJECT_DIR$/src/ua/hillel/Program04.java" />
       </list>
     </option>
   </component>
@@ -295,12 +287,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516743736978</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Поверка ввода цифр в меню, при вводе букв падаем в default&#10;Добавлена 4 задача Фибоначчи&#10;Работа с UI&#10;Дизайн">
+      <created>1516750314837</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1516750314837</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="23" width="1399" height="877" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -310,7 +308,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39006212" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39006212" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -335,31 +333,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Поверка ввода цифр в меню, при вводе букв падаем в default&#10;Добавлена 4 задача Фибоначчи&#10;Работа с UI&#10;Дизайн" />
+    <option name="LAST_COMMIT_MESSAGE" value="Поверка ввода цифр в меню, при вводе букв падаем в default&#10;Добавлена 4 задача Фибоначчи&#10;Работа с UI&#10;Дизайн" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ua/hillel/ChooseProgram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="100" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/hillel/Program04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/hillel/Program02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -402,14 +383,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/hillel/Program08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="118" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/hillel/Program07.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -418,10 +391,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/hillel/ChooseProgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/hillel/ScannerIn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-384">
-          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        <state relative-caret-position="254">
+          <caret line="64" column="91" lean-forward="false" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="91" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/hillel/Program08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="14" column="102" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/hillel/Program04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
