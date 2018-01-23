@@ -8,7 +8,7 @@ public class ScannerIn {
 
     public static void EnterNumberOfTheProgmram(){
 
-        out.println((char) 27 + "[34mВведите номер программы 1-8: " + (char)27 + "[0m");
+        out.println((char) 27 + "[34m     Введите номер программы 1-8: " + (char)27 + "[0m");
         Scanner pr = new Scanner(System.in);
         int choose = 0;
 
@@ -91,7 +91,9 @@ class ScannerSecondChoose {
                 ScannerIn.EnterNumberOfTheProgmram();
                 break;
             case 2:
+                out.println((char) 27 + "[31m-----------------------------------------" + (char)27 + "[0m");
                 out.println((char) 27 + "[31m                   EXIT " + (char)27 + "[0m");
+                out.println((char) 27 + "[31m-----------------------------------------" + (char)27 + "[0m");
                 break;
 
             default:    out.println((char) 27 + "[31m                WARNING!" + (char)27 + "[0m");

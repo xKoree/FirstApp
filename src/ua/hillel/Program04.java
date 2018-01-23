@@ -23,11 +23,13 @@ public class Program04 {
                 n = s.nextInt();
             } else {
                 out.println((char) 27 + "[31m                WARNING!" + (char)27 + "[0m");
+                out.println((char) 27 + "[31m-----------------------------------------" + (char)27 + "[0m");
                 out.println((char) 27 + "[31m          Введите целое число!!!" + (char)27 + "[0m");
+                out.println((char) 27 + "[31m-----------------------------------------" + (char)27 + "[0m");
                 out.println("");
                 Fibonacci();
             }
-
+        // Реализация задачи
         for(int i = 0; i < n; i++){
             sum_fib = a + b;
             a = b;
