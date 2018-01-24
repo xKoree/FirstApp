@@ -8,7 +8,7 @@ public class ScannerIn {
 
     public static void EnterNumberOfTheProgram(){
 
-        out.println((char) 27 + "[34m     Введите номер программы 1-8: " + (char)27 + "[0m");
+        out.println((char) 27 + "[34m     Введите номер программы 1-9: " + (char)27 + "[0m");
         Scanner pr = new Scanner(System.in);
         int choose = 0;
 
@@ -60,6 +60,11 @@ public class ScannerIn {
                 out.println((char) 27 + "[34m-----------------------------------------" + (char)27 + "[0m");
                 ScannerSecondChoose.ExitOrContinue();
                 break;
+            case 9:
+                Program09.Celsius();
+                out.println((char) 27 + "[34m-----------------------------------------" + (char)27 + "[0m");
+                ScannerSecondChoose.ExitOrContinue();
+                break;
 
             default:
                 out.println((char) 27 + "[31m                WARNING!" + (char)27 + "[0m");
@@ -71,9 +76,9 @@ public class ScannerIn {
 
         }
 
-        }
-
     }
+
+}
 
 
 
