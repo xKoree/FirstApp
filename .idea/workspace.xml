@@ -7,11 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4e6f6bc-3003-4a80-af3d-614ffea81146" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ua/hillel/Program09.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/FirstApp/ua/hillel/Program09.class" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstApp_jar/FirstApp.jar" afterPath="$PROJECT_DIR$/out/artifacts/FirstApp_jar/FirstApp.jar" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/ChooseProgram.java" afterPath="$PROJECT_DIR$/src/ua/hillel/ChooseProgram.java" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/ScannerIn.java" afterPath="$PROJECT_DIR$/src/ua/hillel/ScannerIn.java" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstApp/ua/hillel/ChooseProgram.class" afterPath="$PROJECT_DIR$/out/production/FirstApp/ua/hillel/ChooseProgram.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstApp/ua/hillel/ScannerIn.class" afterPath="$PROJECT_DIR$/out/production/FirstApp/ua/hillel/ScannerIn.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstApp/ua/hillel/ScannerSecondChoose.class" afterPath="$PROJECT_DIR$/out/production/FirstApp/ua/hillel/ScannerSecondChoose.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -385,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516831964750</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add Program09 Celsius to Farenheit">
+      <created>1516834884735</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1516834884735</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -429,7 +436,8 @@
     <MESSAGE value="Поверка ввода цифр в задаче № 4, при вводе букв выдает предупреждение и метод перезапускается&#10;Работа с UI&#10;Дизайн" />
     <MESSAGE value="UI" />
     <MESSAGE value="BuildProject" />
-    <option name="LAST_COMMIT_MESSAGE" value="BuildProject" />
+    <MESSAGE value="Add Program09 Celsius to Farenheit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Program09 Celsius to Farenheit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
