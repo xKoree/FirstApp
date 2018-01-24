@@ -84,7 +84,13 @@ class ScannerSecondChoose {
         out.println((char) 27 + "[34m------------------PRESS------------------" + (char)27 + "[0m");
         out.println((char) 27 + "[34m 1. Continue ------ or ------ 2. EXIT " + (char)27 + "[0m");
         Scanner choose2 = new Scanner(System.in);
-        int secondChoose = choose2.nextInt();
+        int secondChoose = 0;
+
+        // проверка на ввод числа с клавиатуры, при вводе буквы возвращает на старт ввода номера программы
+        if (choose2.hasNextInt()){
+            secondChoose = choose2.nextInt();
+        }
+
 
         switch (secondChoose) {
             case 1:
