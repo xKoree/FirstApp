@@ -8,8 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e4e6f6bc-3003-4a80-af3d-614ffea81146" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/Main.java" afterPath="$PROJECT_DIR$/src/ua/hillel/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/ScannerIn.java" afterPath="$PROJECT_DIR$/src/ua/hillel/ScannerIn.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -335,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516752304946</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="BuildProject">
+      <created>1516804642387</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1516804642387</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -378,7 +383,8 @@
     <MESSAGE value="Поверка ввода цифр в меню, при вводе букв падаем в default&#10;Добавлена 4 задача Фибоначчи&#10;Работа с UI&#10;Дизайн" />
     <MESSAGE value="Поверка ввода цифр в задаче № 4, при вводе букв выдает предупреждение и метод перезапускается&#10;Работа с UI&#10;Дизайн" />
     <MESSAGE value="UI" />
-    <option name="LAST_COMMIT_MESSAGE" value="UI" />
+    <MESSAGE value="BuildProject" />
+    <option name="LAST_COMMIT_MESSAGE" value="BuildProject" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
