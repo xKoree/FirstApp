@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4e6f6bc-3003-4a80-af3d-614ffea81146" name="Default" comment="">
+    <list default="true" id="e4e6f6bc-3003-4a80-af3d-614ffea81146" name="Default" comment="UI">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/ChooseProgram.java" afterPath="$PROJECT_DIR$/src/ua/hillel/ChooseProgram.java" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/Program04.java" afterPath="$PROJECT_DIR$/src/ua/hillel/Program04.java" />
       <change beforePath="$PROJECT_DIR$/src/ua/hillel/ScannerIn.java" afterPath="$PROJECT_DIR$/src/ua/hillel/ScannerIn.java" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hillel/Swich.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +19,8 @@
       <file leaf-file-name="ScannerIn.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ua/hillel/ScannerIn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="923">
-              <caret line="95" column="108" lean-forward="false" selection-start-line="95" selection-start-column="108" selection-end-line="95" selection-end-column="108" />
+            <state relative-caret-position="1365">
+              <caret line="91" column="46" lean-forward="true" selection-start-line="91" selection-start-column="46" selection-end-line="91" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -301,11 +300,19 @@
       <option name="project" value="LOCAL" />
       <updated>1516751309203</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="UI">
+      <created>1516751757646</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1516751757646</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="23" width="1399" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -315,7 +322,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6695652" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39006212" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -342,7 +349,8 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Поверка ввода цифр в меню, при вводе букв падаем в default&#10;Добавлена 4 задача Фибоначчи&#10;Работа с UI&#10;Дизайн" />
     <MESSAGE value="Поверка ввода цифр в задаче № 4, при вводе букв выдает предупреждение и метод перезапускается&#10;Работа с UI&#10;Дизайн" />
-    <option name="LAST_COMMIT_MESSAGE" value="Поверка ввода цифр в задаче № 4, при вводе букв выдает предупреждение и метод перезапускается&#10;Работа с UI&#10;Дизайн" />
+    <MESSAGE value="UI" />
+    <option name="LAST_COMMIT_MESSAGE" value="UI" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -427,8 +435,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/hillel/ScannerIn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="923">
-          <caret line="95" column="108" lean-forward="false" selection-start-line="95" selection-start-column="108" selection-end-line="95" selection-end-column="108" />
+        <state relative-caret-position="1365">
+          <caret line="91" column="46" lean-forward="true" selection-start-line="91" selection-start-column="46" selection-end-line="91" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -6,7 +6,7 @@ import static java.lang.System.out;
 
 public class ScannerIn {
 
-    public static void EnterNumberOfTheProgmram(){
+    public static void EnterNumberOfTheProgram(){
 
         out.println((char) 27 + "[34m     Введите номер программы 1-8: " + (char)27 + "[0m");
         Scanner pr = new Scanner(System.in);
@@ -66,7 +66,7 @@ public class ScannerIn {
                 out.println((char) 27 + "[31m-----------------------------------------" + (char)27 + "[0m");
                 out.println((char) 27 + "[31m    Вы вызвали несуществующую программу" + (char)27 + "[0m");
                 out.println((char) 27 + "[31m-----------------------------------------" + (char)27 + "[0m");
-                EnterNumberOfTheProgmram();
+                EnterNumberOfTheProgram();
 
 
         }
@@ -81,6 +81,7 @@ class ScannerSecondChoose {
 
     public static void ExitOrContinue(){
 
+        out.println((char) 27 + "[34m------------------PRESS------------------" + (char)27 + "[0m");
         out.println((char) 27 + "[34m 1. Continue ------ or ------ 2. EXIT " + (char)27 + "[0m");
         Scanner choose2 = new Scanner(System.in);
         int secondChoose = choose2.nextInt();
@@ -88,7 +89,7 @@ class ScannerSecondChoose {
         switch (secondChoose) {
             case 1:
                 ChooseProgram.Choose();
-                ScannerIn.EnterNumberOfTheProgmram();
+                ScannerIn.EnterNumberOfTheProgram();
                 break;
             case 2:
                 out.println((char) 27 + "[31m-----------------------------------------" + (char)27 + "[0m");
@@ -96,7 +97,8 @@ class ScannerSecondChoose {
                 out.println((char) 27 + "[31m-----------------------------------------" + (char)27 + "[0m");
                 break;
 
-            default:    out.println((char) 27 + "[31m                WARNING!" + (char)27 + "[0m");
+            default:
+                out.println((char) 27 + "[31m                WARNING!" + (char)27 + "[0m");
                 out.println((char) 27 + "[31m-----------------------------------------" + (char)27 + "[0m");
                 out.println((char) 27 + "[31m             Enter 1 or 2" + (char)27 + "[0m");
                 out.println((char) 27 + "[31m-----------------------------------------" + (char)27 + "[0m");
