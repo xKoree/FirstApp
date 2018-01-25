@@ -5,20 +5,5 @@ public class Main {
 
         ChooseProgram.Choose();
         ScannerIn.EnterNumberOfTheProgram();
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
-
-
 }
